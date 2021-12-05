@@ -1,5 +1,6 @@
 .bolden{
     font-weight: bold;
+    font-size: xx-large;
 }
 .my_image{
     height: 100px;
@@ -17,4 +18,12 @@
 }
 .hello{
     background-color: rgb(156, 68, 36);
+}
+.aboutme{
+    text-align: center;
+}
+.mycard{
+    background-color: rgb(156, 68, 36);
+    border-radius: 30px;
+    margin: 50px;
 }
