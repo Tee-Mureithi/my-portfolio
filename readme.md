@@ -7,6 +7,7 @@ This is a program that allows the customers of Moringa restaurant to see the men
 # Technologies used
 (1.)HTML<br>
 (2.)CSS<br>
+(3.)Bootstrap
 # Program set-up instructions
 The users will need to install google chrome so as to view the program
 There are no other dependancies needed to run this code<br>
