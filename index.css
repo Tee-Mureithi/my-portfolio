@@ -1,0 +1,14 @@
+.bolden{
+    font-weight: bold;
+}
+.my_image{
+    height: 100px;
+    width: 150px;
+    border-radius: 70px;
+    
+    
+}
+.infoimage{
+    display: flex;
+    justify-content: space-between;
+}
