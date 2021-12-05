@@ -12,3 +12,9 @@
     display: flex;
     justify-content: space-between;
 }
+.message{
+    font-size: 500pxr;
+}
+.hello{
+    background-color: rgb(156, 68, 36);
+}
