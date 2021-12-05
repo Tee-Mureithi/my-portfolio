@@ -3,7 +3,8 @@ Esther Wangari Mureithi<br>
 # Program name
 My portfolio<br>
 # Description of program
-This is a program that allows the customers of Moringa restaurant to see the menu of the restaurant and orfer meals.The program also displays the services offered by the restaurant and the prices of their different meals.By use of the program,one can also book a table<br>
+This is a website that shows the portfolio of Esther Wangari ,the projects she has designed and some facts about her for example her hobbies.It also explains the languages that she uses.
+
 # Technologies used
 (1.)HTML<br>
 (2.)CSS<br>
